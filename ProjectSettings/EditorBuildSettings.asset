@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/JumpyJump/Scenes/MenuScene.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
     path: Assets/JumpyJump/Scenes/GameplayScene.unity
     guid: fca83ea9396fc9341b8c84c6e11758da
   m_configObjects:
