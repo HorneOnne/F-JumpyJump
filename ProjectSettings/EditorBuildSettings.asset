@@ -5,9 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/JumpyJump/Scenes/GameplayScene.unity
+    guid: fca83ea9396fc9341b8c84c6e11758da
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 1c5bc267977e4874c86b05cd175e5a32, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 481b45ba8901f5244a5daf2da0987c25, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: d71fa9a9c428ad2448acdedd5af8c5bd, type: 2}

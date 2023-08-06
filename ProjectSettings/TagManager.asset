@@ -29,13 +29,13 @@ TagManager:
   - 
   - 
   - 
+  - ScoreTrigger
   - 
+  - Wall
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - GroundCollider
+  - Character
   - 
   m_SortingLayers:
   - name: BackgroundUI
